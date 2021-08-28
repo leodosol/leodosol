@@ -1,4 +1,3 @@
-![logo](https://github.com/leodosol/faviconio-logo/logo.png)
 ### Hi there 👋
 
 <!--
